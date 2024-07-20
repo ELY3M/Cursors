@@ -1,0 +1,32 @@
+
+
+ALIENS1.0
+                                     April, 1997
+INSTALLING CURSORS
+
+Unzip Aliens.zip with WinZip, or other compression program
+
+Save unzipped file to C:/Windows/cursors
+
+Open START/CONTROL PANEL
+
+Open MOUSE
+
+Click on POINTERS
+
+Highlight "BUSY"(where your hourglass usually is)
+
+Browse to C:/Windows/cursors......choose desired cursor
+
+Click OK
+
+Alien Cursor will now replace your Hourglass.
+
+Thank you, and enjoy the Aliens.
+
+Eileen Fitzgibbons
+fitz@parkave.net
+
+The Alien Cursor Page
+http://parkave.net/users/fitz/
+

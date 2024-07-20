@@ -1,0 +1,33 @@
+BODY {
+	BACKGROUND-COLOR: #ffc; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; MARGIN: 0px; font-color: black; SCROLLBAR-FACE-COLOR: #036; SCROLLBAR-HIGHLIGHT-COLOR: #cc9; SCROLLBAR-SHADOW-COLOR: #003; SCROLLBAR-ARROW-COLOR: #cc9; SCROLLBAR-BASE-COLOR: #036; scrollbar-3d-light-color: #369; scrollbar-dark-shadow-color: #003
+}
+TD {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px
+}
+DIV {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px
+}
+A {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #036; TEXT-DECORATION: none
+}
+A:link {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #036
+}
+A:visited {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #036
+}
+A:active {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #f00; TEXT-DECORATION: underline
+}
+A:hover {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #369; TEXT-DECORATION: underline
+}
+.main {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FONT-FAMILY: Verdana, Trebuchet MS, Arial
+}
+.white {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #ffffff
+}
+.nav {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #ffffff
+}
